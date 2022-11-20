@@ -1,2 +1,2 @@
-const input = prompt("Enter input");
-console.log(input);
+const userInput = prompt("Enter input");
+console.log(userInput); 
