@@ -1,1 +1,2 @@
-console.log("Git is Awesome!");
+const input = prompt("Enter input");
+console.log(input);
