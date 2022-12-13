@@ -1,2 +1,1 @@
-const userInput = prompt("Enter input");
-console.log(userInput); 
+console.log("Hello World!"); 
